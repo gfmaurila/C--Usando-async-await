@@ -1,0 +1,14 @@
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\bin\Debug\netcoreapp3.1\CShp_Task_T_e_Await.exe
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\bin\Debug\netcoreapp3.1\CShp_Task_T_e_Await.deps.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\bin\Debug\netcoreapp3.1\CShp_Task_T_e_Await.runtimeconfig.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\bin\Debug\netcoreapp3.1\CShp_Task_T_e_Await.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\bin\Debug\netcoreapp3.1\CShp_Task_T_e_Await.dll
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\bin\Debug\netcoreapp3.1\CShp_Task_T_e_Await.pdb
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.dll
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.pdb
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_Task_T_e_Await\CShp_Task_T_e_Await\obj\Debug\netcoreapp3.1\CShp_Task_T_e_Await.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CShp_Task_T_e_Await/1.0.0": {
+        "runtime": {
+          "CShp_Task_T_e_Await.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CShp_Task_T_e_Await/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\bin\Debug\netcoreapp3.1\ValueTask.exe
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\bin\Debug\netcoreapp3.1\ValueTask.deps.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\bin\Debug\netcoreapp3.1\ValueTask.runtimeconfig.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\bin\Debug\netcoreapp3.1\ValueTask.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\bin\Debug\netcoreapp3.1\ValueTask.dll
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\bin\Debug\netcoreapp3.1\ValueTask.pdb
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.dll
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.pdb
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\ValueTask\obj\Debug\netcoreapp3.1\ValueTask.genruntimeconfig.cache

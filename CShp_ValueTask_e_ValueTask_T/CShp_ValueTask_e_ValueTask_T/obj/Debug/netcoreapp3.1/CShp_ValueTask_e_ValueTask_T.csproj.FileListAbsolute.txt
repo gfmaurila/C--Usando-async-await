@@ -1,0 +1,14 @@
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\bin\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.exe
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\bin\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.deps.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\bin\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.runtimeconfig.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\bin\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.runtimeconfig.dev.json
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\bin\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.dll
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\bin\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.pdb
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.csproj.AssemblyReference.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.AssemblyInfoInputs.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.AssemblyInfo.cs
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.csproj.CoreCompileInputs.cache
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.dll
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.pdb
+C:\Work\Work\Exemplos\Macoratti\C--Usando-async-await\CShp_ValueTask_e_ValueTask_T\CShp_ValueTask_e_ValueTask_T\obj\Debug\netcoreapp3.1\CShp_ValueTask_e_ValueTask_T.genruntimeconfig.cache
